@@ -39,12 +39,6 @@ Nesse projeto, foi elaborado uma página utilizando Python, Django e consumindo 
 
 [Repositório do projeto](https://github.com/iuryrodr/Back-End_FastAPI_MBA_USP)
 
-#### 2. Projeto front-end
-
-Nesse projeto, foi elaborado uma página simples utilizando HTML, CSS e JavaScript, de forma a retornar títulos de produtos, assim como preços, uma breve descrição do mesmo.
-
-[Repositório do projeto](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-
 
 
 
