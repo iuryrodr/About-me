@@ -21,11 +21,31 @@ I am an Electrical Engineer graduated from IFSP in 2021, with experience in soft
 
 I incessantly seek new knowledge, I am passionate about learning new technologies and seeking to improve more and more in the world of computing, I started an MBA in Software Engineering at USP Esalq, seeking more knowledge about architecture, clean code, microservices, docker, containerization and everything that this world can provide me.
 
-# 🔗 Links
+# 🔗 Redes Sociais | Socials Networks
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuryr41/)
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iury.rodriguesferreira)
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iuryrodr_/)
+
+# Projetos realizados
+
+## MBA USP/Esalq
+
+### Módulos Introdutórios
+
+#### 1. Projeto back-end
+
+Nesse projeto, foi elaborado uma página utilizando Python, Django e consumindo uma FastAPI de forma a retornar títulos de produtos, assim como preços, uma breve descrição.
+
+[Repositório do projeto](https://github.com/iuryrodr/Back-End_FastAPI_MBA_USP)
+
+#### 2. Projeto front-end
+
+Nesse projeto, foi elaborado uma página simples utilizando HTML, CSS e JavaScript, de forma a retornar títulos de produtos, assim como preços, uma breve descrição do mesmo.
+
+[Repositório do projeto](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+
+
 
 
 # Idiomas | Languages
