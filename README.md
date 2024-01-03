@@ -1,6 +1,9 @@
 
-# Iury Rodrigues Ferreira
-# 🚀 Sobre mim
+# Olá, eu sou o Iury!
+
+# 🚀 Sobre mim | About me
+**[PT]** 
+
 Sou Engenheiro Eletricista, formado pelo Instituto Federal de São Paulo (IFSP) e atualmente (01/2024) curso MBA em Engenharia de Software pela Universidade de São Paulo (USP).
 Atualmente trabalho como programador júnior na SmarAPD Informática, na qual atuo no desenvolvimento e manutenção de sistemas ERP, utilizando C++, SQL Server e JavaScript.
 
@@ -10,7 +13,13 @@ Durante essas experiências, aprimorei meus conhecimentos em várias linguagens 
 
 Busco incessantemente novos conhecimentos, sou apaixonado em aprender novas tecnologias e buscando me aperfeiçoar mais e mais no mundo da computação, iniciei um MBA em Engenharia de Software pela USP Esalq, buscando mais conhecimento sobre arquitetura, clean code, microsservices, docker, containerização e tudo o que esse mundo puder me prover.
 
+**[EN]**
 
+I am an Electrical Engineer, graduated from the Federal Institute of São Paulo (IFSP) and currently (01/2024) I am taking an MBA in Software Engineering from the University of São Paulo (USP). I currently work as a junior programmer at SmarAPD Informática, where I work on the development and maintenance of ERP systems, using C++, SQL Server and JavaScript.
+
+I am an Electrical Engineer graduated from IFSP in 2021, with experience in software development. During graduation, I worked as an intern in an agricultural automation startup, developing software for embedded systems, where I gained experience in the C language and ESP-IDF, working with Free-RTOS on the ESP32. Later, I worked as an intern in industrial automation, working directly with protection and automation systems for steam turbines and speed reducers. I work as a junior level programmer, with skills in C++, Delphi, SQL Server, HTML, CSS and Javascript, in an ERP system focused on public management. During these experiences, I improved my knowledge in several languages including C, C++, Python, HTML, CSS, JS and SQL Server, as well as performance, architecture and software improvement. I also acquired skills in microcontrollers, industrial processes, instrumentation and control and automation systems. I am always looking for new challenges and learning opportunities in my area of expertise.
+
+I incessantly seek new knowledge, I am passionate about learning new technologies and seeking to improve more and more in the world of computing, I started an MBA in Software Engineering at USP Esalq, seeking more knowledge about architecture, clean code, microservices, docker, containerization and everything that this world can provide me.
 
 # 🔗 Links
 
@@ -19,8 +28,16 @@ Busco incessantemente novos conhecimentos, sou apaixonado em aprender novas tecn
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iuryrodr_/)
 
 
+# Idiomas | Languages
 
-# Stack utilizada
+**Francês:** Básico | Basic
+
+**Inglês:** Avançado | Advanced
+
+**Português:** Nativo | Native
+
+
+# Stack utilizada | Stack used
 
 **Front-end:** JavaScript, HTML, CSS
 
